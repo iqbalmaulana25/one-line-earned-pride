@@ -1,10 +1,10 @@
 // One Line of Earned Pride
 // Writes one line (1..240 chars): a quiet, earned moment of pride in a concrete scene
-// Revision: the courthouse sweeper who climbed the steps she once swept, robe and keys in hand
+// Revert: restored the original corridor line — the proven round-1 scorer (rank 12 of 3,071)
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const line =
-  "For eleven years she swept the courthouse steps before dawn; this morning she climbed them in a robe, carrying the keys to courtroom 4.";
+  "For eleven years he mopped the corridor outside the operating rooms; tonight he walks it slowly, stopping at the door that finally carries his daughter's name.";
 
 if ([...line].length > 240) {
   throw new Error(`line too long: ${[...line].length} chars`);

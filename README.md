@@ -15,4 +15,4 @@ cat /output/entry.txt
 
 ## Entry
 
-> For eleven years she swept the courthouse steps before dawn; this morning she climbed them in a robe, carrying the keys to courtroom 4.
+> For eleven years he mopped the corridor outside the operating rooms; tonight he walks it slowly, stopping at the door that finally carries his daughter's name.
